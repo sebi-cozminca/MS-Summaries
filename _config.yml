@@ -1,10 +1,10 @@
-title: Fabric w/ Azure Databricks
-description: This lab showcases Modern Analytics with Microsoft Fabric and Azure Databricks, featuring a cost-effective, performance-optimized, and cloud-native Analytics solution pattern. 
+title: LAb Summaries
+description: TUse this page to quickly scan all labs at a glance. Each entry shows the lab summary, its exercises, and key metadata—duration, difficulty, tools, prerequisites, target students, owner, and last updated. Filter and sort to find the right lab fast, then jump into the details.
 theme: just-the-docs
 
 aux_links:
-  "SkillyPlayground": 
-    - "https://github.com/sebi-cozminca/SkillyPlayground"
+  "Lab Summaries": 
+    - "https://sebi-cozminca.github.io/MS-Summaries"
 
 callouts_level: quiet # or loud
 callouts:
