@@ -5,17 +5,17 @@ nav_order: 30
 parent: 'Lab summaries'
 ---
 
-**ID** 205051
-**Number:** LAB547
-**Name:** Implement Insider Risk Management and Adaptive Protection - Ignite 2025
-**CloudSubscriptionPoolName:** NA
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** WWL | M365 Enterprise 2019 w/ SPE_E (Stakeholder: Kim Frank)
-**Additional licenses:** NA
-
+**ID** 205051  
+**Number:** LAB547  
+**Name:** Implement Insider Risk Management and Adaptive Protection - Ignite 2025  
+**CloudSubscriptionPoolName:** NA  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** WWL | M365 Enterprise 2019 w/ SPE_E (Stakeholder: Kim Frank)  
+**Additional licenses:** NA  
+ 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Enable Analytics**
   - **Goal:** Activate analytics to surface organization-wide patterns of risky activity.

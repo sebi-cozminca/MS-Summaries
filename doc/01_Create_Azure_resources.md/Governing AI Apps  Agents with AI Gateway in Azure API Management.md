@@ -5,17 +5,17 @@ nav_order: 29
 parent: 'Lab summaries'
 ---
 
-**ID** 205795
-**Number:** LAB519
-**Name:** Governing AI Apps & Agents with AI Gateway in Azure API Management
-**CloudSubscriptionPoolName:** Microsoft Events 25 - MSLEARN CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 205795  
+**Number:** LAB519  
+**Name:** Governing AI Apps & Agents with AI Gateway in Azure API Management  
+**CloudSubscriptionPoolName:** Microsoft Events 25 - MSLEARN CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Review Deployed Azure Resources**
   - **Goal:** Understand the Azure resources provisioned for AI Gateway governance.

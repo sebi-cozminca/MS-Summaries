@@ -5,17 +5,17 @@ nav_order: 83
 parent: 'Lab summaries'
 ---
 
-**ID** 168136
-**Number:** 41-411-5
-**Name:** TechLab: Understanding Microsoft Purview Foundational Architecture
-**CloudSubscriptionPoolName:** NA
-**AllowSave:** True
-**CloudCredentialPoolAssignments:** WWL | M365 Enterprise Blank 15S (Stakeholder: Kim Frank)
-**Additional licenses:** NA
+**ID** 168136  
+**Number:** 41-411-5  
+**Name:** TechLab: Understanding Microsoft Purview Foundational Architecture  
+**CloudSubscriptionPoolName:** NA  
+**AllowSave:** True  
+**CloudCredentialPoolAssignments:** WWL | M365 Enterprise Blank 15S (Stakeholder: Kim Frank)  
+**Additional licenses:** NA  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Manage Compliance Roles**
 - **Goal:** Assign compliance roles and enable auditing in Microsoft Purview.

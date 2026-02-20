@@ -4,18 +4,18 @@ layout: default
 nav_order: 26
 parent: 'Lab summaries'
 ---
-
-**ID** 205272
-**Number:** LAB532
-**Name:** Get Real with Real-Time Intelligence to Transform Data into Action - Ignite 2025
-**CloudSubscriptionPoolName:** Ignite 2025 - CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+ 
+**ID** 205272  
+**Number:** LAB532  
+**Name:** Get Real with Real-Time Intelligence to Transform Data into Action - Ignite 2025  
+**CloudSubscriptionPoolName:** Ignite 2025 - CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Create Resources**
 	- **Goal:** Set up the foundational environment in Microsoft Fabric for real-time intelligence.

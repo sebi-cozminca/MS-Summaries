@@ -5,17 +5,15 @@ nav_order: 18
 parent: 'Lab summaries'
 ---
 
-**ID** 205275
-**Number:** LAB504
-**Name:** Connect, secure and manage hybrid, multicloud and edge with Azure Arc
-**CloudSubscriptionPoolName:** Microsoft Events 25 - MSLEARN CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 205275  
+**Number:** LAB504  
+**Name:** Connect, secure and manage hybrid, multicloud and edge with Azure Arc  
+**CloudSubscriptionPoolName:** Microsoft Events 25 - MSLEARN CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
-
-# Connect, Secure, and Manage Hybrid Multicloud and Edge with Azure Arc — Lab Instruction Summary
 
 ## Exercise Summary
 

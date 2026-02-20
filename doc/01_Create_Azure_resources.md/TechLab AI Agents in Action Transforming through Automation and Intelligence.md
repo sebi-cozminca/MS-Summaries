@@ -5,17 +5,17 @@ nav_order: 51
 parent: 'Lab summaries'
 ---
 
-**ID** 186390
-**Number:** TechConnect Lab114
-**Name:** TechLab: AI Agents in Action: Transforming through Automation and Intelligence
-**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 186390  
+**Number:** TechConnect Lab114  
+**Name:** TechLab: AI Agents in Action: Transforming through Automation and Intelligence  
+**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Environment and Azure Portal Login**
 - **Goal:** Access the lab environment and Azure portal with the required credentials.

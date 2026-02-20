@@ -1,21 +1,19 @@
 ---
 title: 'Modernize your Open Source Linux Workloads Prod [OLD VERSION]'
 layout: default
-nav_order: 39
+nav_order: 40
 parent: 'Lab summaries'
 ---
 
-**ID** 186388
-**Number:** LAB313
-**Name:** Modernize your Open Source Linux Workloads Prod [OLD VERSION]
-**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** TrialFabricUsers
+**ID** 186388  
+**Number:** LAB313  
+**Name:** Modernize your Open Source Linux Workloads Prod [OLD VERSION]  
+**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** TrialFabricUsers  
 
 ---
-
-# Modernize your Open Source Linux Workloads - Lab Instruction Summary
 
 ## Exercise Summary
 

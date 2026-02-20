@@ -5,17 +5,15 @@ nav_order: 79
 parent: 'Lab summaries'
 ---
 
-**ID** 185893
-**Number:** 41-503-02
-**Name:** TechLab: Secure your data with Microsoft Purview
-**CloudSubscriptionPoolName:** NA
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** WWL | M365 Enterprise 2019 w/ SPE_E (Stakeholder: Kim Frank)
-**Additional licenses:** NA
+**ID** 185893  
+**Number:** 41-503-02  
+**Name:** TechLab: Secure your data with Microsoft Purview  
+**CloudSubscriptionPoolName:** NA  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** WWL | M365 Enterprise 2019 w/ SPE_E (Stakeholder: Kim Frank)  
+**Additional licenses:** NA  
 
 ---
-
-# TechLab Secure your data with Microsoft Purview — Exercise Summary
 
 ## Exercise Summary
 

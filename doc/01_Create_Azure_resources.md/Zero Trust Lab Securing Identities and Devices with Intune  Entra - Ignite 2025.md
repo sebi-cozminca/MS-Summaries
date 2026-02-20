@@ -5,17 +5,17 @@ nav_order: 95
 parent: 'Lab summaries'
 ---
 
-**ID** 205066
-**Number:** LAB542
-**Name:** Zero Trust Lab: Securing Identities and Devices with Intune & Entra - Ignite 2025
-**CloudSubscriptionPoolName:** NA
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** WWL | M365 Enterprise 2019 w/ SPE_E (Stakeholder: Kim Frank)
-**Additional licenses:** NA
+**ID** 205066  
+**Number:** LAB542  
+**Name:** Zero Trust Lab: Securing Identities and Devices with Intune & Entra - Ignite 2025  
+**CloudSubscriptionPoolName:** NA  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** WWL | M365 Enterprise 2019 w/ SPE_E (Stakeholder: Kim Frank)   
+**Additional licenses:** NA  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Section 1: Install the Zero Trust Assessment Tool**
 - **Goal:** Set up the Zero Trust Assessment module to evaluate tenant security posture.

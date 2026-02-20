@@ -1,21 +1,21 @@
 ---
 title: 'Project Plaid: Secure, extensible framework for AI-first delivery'
 layout: default
-nav_order: 44
+nav_order: 45
 parent: 'Lab summaries'
 ---
 
-**ID** 208621
-**Number:** LAB 112
-**Name:** Project Plaid: Secure, extensible framework for AI-first delivery
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** WWL | M365 Enterprise Blank Admin Only 15S (Stakeholder: Kim Frank)
-**Additional licenses:** CopilotStudio, Events GHE w/ Copilot
+**ID** 208621  
+**Number:** LAB 112  
+**Name:** Project Plaid: Secure, extensible framework for AI-first delivery  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** WWL | M365 Enterprise Blank Admin Only 15S (Stakeholder: Kim Frank)  
+**Additional licenses:** CopilotStudio, Events GHE w/ Copilot  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Log into Lab Environment and GitHub**
 - **Goal:** Access the lab virtual machine and authenticate with GitHub for VS Code extension development.

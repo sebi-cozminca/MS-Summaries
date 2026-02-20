@@ -5,17 +5,17 @@ nav_order: 13
 parent: 'Lab summaries'
 ---
 
-**ID** 208653
-**Number:** LAB 633
-**Name:** Building Connected Agents in Copilot Studio: End to End Lab
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** CopilotStudio, Events GHE w/ Copilot, E3 + PBI Pro
+**ID** 208653  
+**Number:** LAB 633  
+**Name:** Building Connected Agents in Copilot Studio: End to End Lab  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** CopilotStudio, Events GHE w/ Copilot, E3 + PBI Pro  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Create and Configure Fabric Data Agent**
 - **Goal:** Build a Fabric Data Agent that can query a semantic model using natural language.

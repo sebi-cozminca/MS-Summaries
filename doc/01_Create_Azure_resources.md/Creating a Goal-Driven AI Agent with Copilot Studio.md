@@ -5,17 +5,15 @@ nav_order: 20
 parent: 'Lab summaries'
 ---
 
-**ID** 205042
-**Number:** LAB 631
-**Name:** Creating a Goal-Driven AI Agent with Copilot Studio
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** Events GHE w/ Copilot, M365Copilot, CopilotStudio, E3
+**ID** 205042  
+**Number:** LAB 631  
+**Name:** Creating a Goal-Driven AI Agent with Copilot Studio  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** Events GHE w/ Copilot, M365Copilot, CopilotStudio, E3  
 
 ---
-
-# Creating a Goal-Driven AI Agent with Copilot Studio — Lab Instruction Summary
 
 ## Exercise Summary
 

@@ -5,17 +5,17 @@ nav_order: 65
 parent: 'Lab summaries'
 ---
 
-**ID** 173542
-**Number:** 41-411-4
-**Name:** TechLab: Enable and Configure Defender for Cloud
-**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)
-**AllowSave:** True
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 173542  
+**Number:** 41-411-4  
+**Name:** TechLab: Enable and Configure Defender for Cloud  
+**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)  
+**AllowSave:** True  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Enable Microsoft Defender for Cloud**
 - **Goal:** Enable and configure Microsoft Defender for Cloud on an Azure subscription and import lab resources.

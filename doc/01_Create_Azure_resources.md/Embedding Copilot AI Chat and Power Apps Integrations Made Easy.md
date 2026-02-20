@@ -5,17 +5,17 @@ nav_order: 23
 parent: 'Lab summaries'
 ---
 
-**ID** 208652
-**Number:** LAB 632
-**Name:** Embedding Copilot: AI Chat and Power Apps Integrations Made Easy
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** CopilotStudio, Events GHE w/ Copilot
+**ID** 208652  
+**Number:** LAB 632  
+**Name:** Embedding Copilot: AI Chat and Power Apps Integrations Made Easy  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** CopilotStudio, Events GHE w/ Copilot  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Review and Understand the Starter Project Structure**
 - **Goal:** Familiarize with the Blazor Server web application foundation for Copilot Studio integration.

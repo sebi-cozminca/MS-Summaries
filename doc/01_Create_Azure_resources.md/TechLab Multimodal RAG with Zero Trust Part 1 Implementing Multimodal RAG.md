@@ -5,17 +5,17 @@ nav_order: 76
 parent: 'Lab summaries'
 ---
 
-**ID** 167996
-**Number:** 1
-**Name:** TechLab: Multimodal RAG with Zero Trust Part 1: Implementing Multimodal RAG
-**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 167996  
+**Number:** 1  
+**Name:** TechLab: Multimodal RAG with Zero Trust Part 1: Implementing Multimodal RAG  
+**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Deploy an Enterprise RAG Solution**
 - **Goal:** Deploy and configure a Multimodal Retrieval-Augmented Generation (RAG) solution accelerator using Azure services.

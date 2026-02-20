@@ -5,17 +5,17 @@ nav_order: 53
 parent: 'Lab summaries'
 ---
 
-**ID** 187932
-**Number:** LAB618
-**Name:** TechLab: Azure landing zone + AI-Ready Landing Zone Accelerator for AI
-**CloudSubscriptionPoolName:** Build 2024 CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** WWL | M365 Enterprise Blank Admin Only 15S (Stakeholder: Kim Frank)
-**Additional licenses:** NA
+**ID** 187932  
+**Number:** LAB618  
+**Name:** TechLab: Azure landing zone + AI-Ready Landing Zone Accelerator for AI  
+**CloudSubscriptionPoolName:** Build 2024 CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** WWL | M365 Enterprise Blank Admin Only 15S (Stakeholder: Kim Frank)  
+**Additional licenses:** NA  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Deploy the Infrastructure**
 - **Goal:** Provision a secure, AI-ready Azure landing zone with all required networking, security, and AI service dependencies.

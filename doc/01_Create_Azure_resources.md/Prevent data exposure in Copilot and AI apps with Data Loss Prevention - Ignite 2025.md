@@ -1,21 +1,21 @@
 ---
 title: 'Prevent data exposure in Copilot and AI apps with Data Loss Prevention - Ignite 2025'
 layout: default
-nav_order: 43
+nav_order: 44
 parent: 'Lab summaries'
 ---
 
-**ID** 205170
-**Number:** LAB548
-**Name:** Prevent data exposure in Copilot and AI apps with Data Loss Prevention - Ignite 2025
-**CloudSubscriptionPoolName:** NA
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** WWL | M365 Enterprise 2019 w/ SPE_E (Stakeholder: Kim Frank)
-**Additional licenses:** NA
+**ID** 205170  
+**Number:** LAB548  
+**Name:** Prevent data exposure in Copilot and AI apps with Data Loss Prevention - Ignite 2025  
+**CloudSubscriptionPoolName:** NA  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** WWL | M365 Enterprise 2019 w/ SPE_E (Stakeholder: Kim Frank)  
+**Additional licenses:** NA  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Create a DLP Policy in Simulation Mode**
 - **Goal:** Restrict Microsoft 365 Copilot from processing highly confidential content using a DLP policy in simulation mode.

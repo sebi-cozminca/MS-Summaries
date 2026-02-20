@@ -5,17 +5,15 @@ nav_order: 55
 parent: 'Lab summaries'
 ---
 
-**ID** 169588
-**Number:** 41-411-10
-**Name:** TechLab: Build Scalable AI Apps with AKS & APIM
-**CloudSubscriptionPoolName:** TechMaster MSLEARN - CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** E5
+**ID** 169588  
+**Number:** 41-411-10  
+**Name:** TechLab: Build Scalable AI Apps with AKS & APIM  
+**CloudSubscriptionPoolName:** TechMaster MSLEARN - CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** E5  
 
 ---
-
-# Tech Mastery Catalog Lab Instruction Summary
 
 ## Exercise Summary
 

@@ -5,17 +5,17 @@ nav_order: 52
 parent: 'Lab summaries'
 ---
 
-**ID** 162929
-**Number:** 41-411-8
-**Name:** TechLab: App Service Migration Deep Dive
-**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)
-**AllowSave:** True
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 162929  
+**Number:** 41-411-8  
+**Name:** TechLab: App Service Migration Deep Dive  
+**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)  
+**AllowSave:** True  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Assessment**
 - **Goal:** Evaluate .NET applications for migration readiness to Azure App Service.

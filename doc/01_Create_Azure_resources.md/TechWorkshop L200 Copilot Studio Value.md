@@ -5,17 +5,17 @@ nav_order: 88
 parent: 'Lab summaries'
 ---
 
-**ID** 194877
-**Number:** 40-505-16
-**Name:** TechWorkshop L200: Copilot Studio Value
-**CloudSubscriptionPoolName:** NA
-**AllowSave:** True
-**CloudCredentialPoolAssignments:** WWL | M365 Enterprise Blank Admin Only 15S (Stakeholder: Kim Frank)
-**Additional licenses:** NA
+**ID** 194877  
+**Number:** 40-505-16  
+**Name:** TechWorkshop L200: Copilot Studio Value  
+**CloudSubscriptionPoolName:** NA  
+**AllowSave:** True  
+**CloudCredentialPoolAssignments:** WWL | M365 Enterprise Blank Admin Only 15S (Stakeholder: Kim Frank)  
+**Additional licenses:** NA  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 00: Set up the environment and import an agentic solution**
 - **Goal:** Prepare the Power Platform environment and import a pre-built solution for agent development.

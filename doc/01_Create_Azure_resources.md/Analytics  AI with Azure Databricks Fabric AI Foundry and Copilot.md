@@ -5,17 +5,17 @@ nav_order: 1
 parent: 'Lab summaries'
 ---
 
-**ID** 205505
-**Number:** LAB 257
-**Name:** Analytics & AI with Azure Databricks, Fabric, AI Foundry and Copilot
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-MSLEARN-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** E5, TeamsEnt, CopilotStudioTrial, Ignite25Lab535Databricks
+**ID** 205505  
+**Number:** LAB 257  
+**Name:** Analytics & AI with Azure Databricks, Fabric, AI Foundry and Copilot  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-MSLEARN-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** E5, TeamsEnt, CopilotStudioTrial, Ignite25Lab535Databricks 
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Lakehouse Setup & Data Orchestration with Azure Databricks and Lakeflow Spark Declarative Pipelines**
 - **Goal:** Establish a unified analytics environment using Azure Databricks and orchestrate data pipelines for data transformation.

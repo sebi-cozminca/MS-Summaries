@@ -5,17 +5,15 @@ nav_order: 80
 parent: 'Lab summaries'
 ---
 
-**ID** 170870
-**Number:** 41-411-2
-**Name:** TechLab: Training AI Models on Azure VMs using Azure CycleCloud SLURM Workspace
-**CloudSubscriptionPoolName:** CycleCloud CSS (Recycling)
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 170870  
+**Number:** 41-411-2  
+**Name:** TechLab: Training AI Models on Azure VMs using Azure CycleCloud SLURM Workspace  
+**CloudSubscriptionPoolName:** CycleCloud CSS (Recycling)  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
-
-# TechLab Training AI Models on Azure VMs using Azure CycleCloud SLURM Workspace — Exercise Summary
 
 ## Exercise Summary
 

@@ -5,17 +5,17 @@ nav_order: 31
 parent: 'Lab summaries'
 ---
 
-**ID** 205277
-**Number:** LAB512
-**Name:** Interacting with Multimodal Models and Agents in Azure AI Foundry - Ignite 2025
-**CloudSubscriptionPoolName:** Ignite 2025 - CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** Events GHE w/ Copilot
+**ID** 205277  
+**Number:** LAB512  
+**Name:** Interacting with Multimodal Models and Agents in Azure AI Foundry - Ignite 2025  
+**CloudSubscriptionPoolName:** Ignite 2025 - CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** Events GHE w/ Copilot  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Get Started**
   - **Goal:** Set up the lab environment and access the required tools.

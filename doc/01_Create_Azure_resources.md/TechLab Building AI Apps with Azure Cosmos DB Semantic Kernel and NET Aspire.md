@@ -5,17 +5,15 @@ nav_order: 56
 parent: 'Lab summaries'
 ---
 
-**ID** 186394
-**Number:** LAB510
-**Name:** TechLab: Building AI Apps with Azure Cosmos DB, Semantic Kernel and .NET Aspire
-**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 186394  
+**Number:** LAB510  
+**Name:** TechLab: Building AI Apps with Azure Cosmos DB, Semantic Kernel and .NET Aspire  
+**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
-
-# Tech Mastery Catalog Lab Instruction Summary
 
 ## Exercise Summary
 

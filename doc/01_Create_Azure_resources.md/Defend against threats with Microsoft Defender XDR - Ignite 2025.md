@@ -5,17 +5,17 @@ nav_order: 21
 parent: 'Lab summaries'
 ---
 
-**ID** 205058
-**Number:** LAB541
-**Name:** Defend against threats with Microsoft Defender XDR - Ignite 2025
-**CloudSubscriptionPoolName:** NA
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** WWL | M365 Enterprise 2019 w/ SPE_E (Stakeholder: Kim Frank)
-**Additional licenses:** NA
+**ID** 205058  
+**Number:** LAB541  
+**Name:** Defend against threats with Microsoft Defender XDR - Ignite 2025  
+**CloudSubscriptionPoolName:** NA  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** WWL | M365 Enterprise 2019 w/ SPE_E (Stakeholder: Kim Frank)  
+**Additional licenses:** NA  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Explore Microsoft Defender XDR**
 - **Goal:** Familiarize with Microsoft Defender XDR and configure preset security policies for Exchange Online Protection (EOP) and Microsoft Defender for Office 365.

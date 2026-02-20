@@ -4,18 +4,18 @@ layout: default
 nav_order: 60
 parent: 'Lab summaries'
 ---
-
-**ID** 165887
-**Number:** 41-411-1
-**Name:** TechLab: Configure Teams Direct Routing
-**CloudSubscriptionPoolName:** NA
-**AllowSave:** True
-**CloudCredentialPoolAssignments:** WWL | M365 Enterprise with Calling (Stakeholder: Kim Frank)
-**Additional licenses:** NA
+ 
+**ID** 165887  
+**Number:** 41-411-1  
+**Name:** TechLab: Configure Teams Direct Routing  
+**CloudSubscriptionPoolName:** NA  
+**AllowSave:** True  
+**CloudCredentialPoolAssignments:** WWL | M365 Enterprise with Calling (Stakeholder: Kim Frank)  
+**Additional licenses:** NA  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Configuring the lab environment**
 - **Goal:** Prepare the Microsoft Teams environment for Direct Routing by setting up DNS, Azure AD, and certificates.

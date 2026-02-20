@@ -5,17 +5,15 @@ nav_order: 81
 parent: 'Lab summaries'
 ---
 
-**ID** 186383
-**Number:** LAB216
-**Name:** TechLab: Transform your processes with Microsoft Copilot Studio
-**CloudSubscriptionPoolName:** TechMaster MSLEARN - CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** Copilot Studio Tenants (2025 Batch 1)
-**Additional licenses:** NA
+**ID** 186383  
+**Number:** LAB216  
+**Name:** TechLab: Transform your processes with Microsoft Copilot Studio  
+**CloudSubscriptionPoolName:** TechMaster MSLEARN - CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** Copilot Studio Tenants (2025 Batch 1)  
+**Additional licenses:** NA  
 
 ---
-
-# TechLab Transform your processes with Microsoft Copilot Studio — Exercise Summary
 
 ## Exercise Summary
 

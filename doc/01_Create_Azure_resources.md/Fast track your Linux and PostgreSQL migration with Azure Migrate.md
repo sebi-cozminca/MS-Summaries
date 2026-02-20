@@ -5,17 +5,17 @@ nav_order: 25
 parent: 'Lab summaries'
 ---
 
-**ID** 208614
-**Number:** LAB 109
-**Name:** Fast track your Linux and PostgreSQL migration with Azure Migrate
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** M365Copilot, CopilotStudio, Events GHE w/ Copilot
+**ID** 208614  
+**Number:** LAB 109  
+**Name:** Fast track your Linux and PostgreSQL migration with Azure Migrate  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** M365Copilot, CopilotStudio, Events GHE w/ Copilot  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Prepare for Workload Migration with Azure Migrate**
 - **Goal:** Establish Azure Migrate projects and configure discovery and migration for Linux workloads.

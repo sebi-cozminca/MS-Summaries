@@ -5,17 +5,15 @@ nav_order: 15
 parent: 'Lab summaries'
 ---
 
-**ID** 208623
-**Number:** LAB 181
-**Name:** Building intelligent, multi-agent Apps with Github and Agent Framework
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** CopilotStudio, Events GHE w/ Copilot, M365Copilot
+**ID** 208623  
+**Number:** LAB 181  
+**Name:** Building intelligent, multi-agent Apps with Github and Agent Framework  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** CopilotStudio, Events GHE w/ Copilot, M365Copilot  
 
 ---
-
-# Building Intelligent Multi-Agent Apps with GitHub and Agent Framework — Lab Instruction Summary
 
 ## Exercise Summary
 

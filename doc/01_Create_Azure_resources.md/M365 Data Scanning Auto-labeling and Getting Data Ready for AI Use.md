@@ -1,21 +1,21 @@
 ---
 title: 'M365 Data Scanning, Auto-labeling and Getting Data Ready for AI Use'
 layout: default
-nav_order: 34
+nav_order: 35
 parent: 'Lab summaries'
 ---
 
-**ID** 208642
-**Number:** LAB 439
-**Name:** M365 Data Scanning, Auto-labeling and Getting Data Ready for AI Use
-**CloudSubscriptionPoolName:** NA
-**AllowSave:** True
-**CloudCredentialPoolAssignments:** WWL | M365 Enterprise 2019 w/ SPE_E (Stakeholder: Kim Frank)
-**Additional licenses:** NA
+**ID** 208642  
+**Number:** LAB 439  
+**Name:** M365 Data Scanning, Auto-labeling and Getting Data Ready for AI Use  
+**CloudSubscriptionPoolName:** NA  
+**AllowSave:** True  
+**CloudCredentialPoolAssignments:** WWL | M365 Enterprise 2019 w/ SPE_E (Stakeholder: Kim Frank)  
+**Additional licenses:** NA  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Enable Audit in Microsoft Purview**
 - **Goal:** Activate audit logging to track user and admin activity for compliance and labeling features.

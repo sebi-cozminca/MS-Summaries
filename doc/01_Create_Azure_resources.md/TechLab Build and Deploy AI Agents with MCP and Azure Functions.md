@@ -5,17 +5,15 @@ nav_order: 54
 parent: 'Lab summaries'
 ---
 
-**ID** 186838
-**Number:** LAB344
-**Name:** TechLab: Build and Deploy AI Agents with MCP and Azure Functions
-**CloudSubscriptionPoolName:** Microsoft Event Subscription (CSS)
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
-
+**ID** 186838  
+**Number:** LAB344  
+**Name:** TechLab: Build and Deploy AI Agents with MCP and Azure Functions  
+**CloudSubscriptionPoolName:** Microsoft Event Subscription (CSS)  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
+ 
 ---
-
-# Tech Mastery Catalog Lab Instruction Summary
 
 ## Exercise Summary
 

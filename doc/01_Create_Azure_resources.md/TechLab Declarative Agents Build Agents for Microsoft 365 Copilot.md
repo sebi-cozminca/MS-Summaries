@@ -5,17 +5,17 @@ nav_order: 62
 parent: 'Lab summaries'
 ---
 
-**ID** 186385
-**Number:** LAB910
-**Name:** TechLab: Declarative Agents: Build Agents for Microsoft 365 Copilot
-**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** WWL | M365 Enterprise Blank Admin Only 15S (Stakeholder: Kim Frank)
-**Additional licenses:** TreyLegalDocsReaders, TrialFabricUsers
+**ID** 186385  
+**Number:** LAB910  
+**Name:** TechLab: Declarative Agents: Build Agents for Microsoft 365 Copilot  
+**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** WWL | M365 Enterprise Blank Admin Only 15S (Stakeholder: Kim Frank)  
+**Additional licenses:** TreyLegalDocsReaders, TrialFabricUsers  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Run the starting solution**
 - **Goal:** Launch and validate the initial declarative agent and API plugin in Microsoft 365 Copilot using Visual Studio Code and Teams Toolkit.

@@ -5,17 +5,17 @@ nav_order: 94
 parent: 'Lab summaries'
 ---
 
-**ID** 208635
-**Number:** LAB 333
-**Name:** Zero to Hero: Hands-on with GitHub Copilot
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** Events GHE w/ Copilot
+**ID** 208635  
+**Number:** LAB 333  
+**Name:** Zero to Hero: Hands-on with GitHub Copilot  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** Events GHE w/ Copilot  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Copilot Basics**
 - **Goal:** Learn foundational GitHub Copilot features and improve test coverage in a TypeScript/Express project.

@@ -5,17 +5,17 @@ nav_order: 12
 parent: 'Lab summaries'
 ---
 
-**ID** 205920
-**Number:** LAB590
-**Name:** Building collaborative agents in Microsoft Teams with Teams AI Library
-**CloudSubscriptionPoolName:** Microsoft Event Subscription (CSS)
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** M365Copilot, E5, TeamsEnt
+**ID** 205920  
+**Number:** LAB590  
+**Name:** Building collaborative agents in Microsoft Teams with Teams AI Library  
+**CloudSubscriptionPoolName:** Microsoft Event Subscription (CSS)  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** M365Copilot, E5, TeamsEnt  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Build Your Agent in 30 Seconds**
 - **Goal:** Quickly create a basic Teams agent using the Teams CLI.

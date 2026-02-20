@@ -5,17 +5,17 @@ nav_order: 92
 parent: 'Lab summaries'
 ---
 
-**ID** 208644
-**Number:** LAB 484
-**Name:** Validating and Testing the Quality of Copilot Agents with Evals
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** M365Copilot, CopilotStudio, E3, Events GHE w/ Copilot
+**ID** 208644  
+**Number:** LAB 484  
+**Name:** Validating and Testing the Quality of Copilot Agents with Evals  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** M365Copilot, CopilotStudio, E3, Events GHE w/ Copilot  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Copilot Studio Evaluation**
 - **Goal:** Configure and run Copilot Studio Evaluation on an HR Self-Service agent to assess response quality and identify improvement areas.

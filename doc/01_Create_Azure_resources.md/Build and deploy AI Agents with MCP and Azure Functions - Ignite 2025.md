@@ -5,17 +5,17 @@ nav_order: 8
 parent: 'Lab summaries'
 ---
 
-**ID** 205279
-**Number:** LAB514
-**Name:** Build and deploy AI Agents with MCP and Azure Functions - Ignite 2025
-**CloudSubscriptionPoolName:** Microsoft Event Subscription (CSS)
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** Events GHE w/ Copilot
+**ID** 205279  
+**Number:** LAB514  
+**Name:** Build and deploy AI Agents with MCP and Azure Functions - Ignite 2025  
+**CloudSubscriptionPoolName:** Microsoft Event Subscription (CSS)  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** Events GHE w/ Copilot  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Lab Setup**
 - **Goal:** Prepare the lab environment and required tools for building and deploying AI agents with Azure Functions and MCP.

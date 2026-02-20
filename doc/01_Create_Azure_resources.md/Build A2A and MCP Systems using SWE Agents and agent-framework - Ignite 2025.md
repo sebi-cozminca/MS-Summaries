@@ -5,17 +5,17 @@ nav_order: 6
 parent: 'Lab summaries'
 ---
 
-**ID** 205281
+**ID** 205281  
 **Number:** LAB513
-**Name:** Build A2A and MCP Systems using SWE Agents and agent-framework - Ignite 2025
-**CloudSubscriptionPoolName:** Microsoft Event Subscription (CSS)
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** Events GHE w/ Copilot
+**Name:** Build A2A and MCP Systems using SWE Agents and agent-framework - Ignite 2025  
+**CloudSubscriptionPoolName:** Microsoft Event Subscription (CSS)  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** Events GHE w/ Copilot  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Lab Environment Setup**
 - **Goal:** Prepare the Skillable Lab Cloud VM and required tools for agent-framework development.

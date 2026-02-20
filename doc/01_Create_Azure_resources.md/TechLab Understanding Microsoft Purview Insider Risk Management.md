@@ -5,17 +5,17 @@ nav_order: 84
 parent: 'Lab summaries'
 ---
 
-**ID** 168133
-**Number:** 41-411-5
-**Name:** TechLab: Understanding Microsoft Purview Insider Risk Management
-**CloudSubscriptionPoolName:** NA
-**AllowSave:** True
-**CloudCredentialPoolAssignments:** WWL | M365 Enterprise 2019 w/ SPE_E (Stakeholder: Kim Frank)
-**Additional licenses:** NA
+**ID** 168133  
+**Number:** 41-411-5  
+**Name:** TechLab: Understanding Microsoft Purview Insider Risk Management  
+**CloudSubscriptionPoolName:** NA  
+**AllowSave:** True  
+**CloudCredentialPoolAssignments:** WWL | M365 Enterprise 2019 w/ SPE_E (Stakeholder: Kim Frank)  
+**Additional licenses:** NA  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Enable permissions for insider risk management**
 - **Goal:** Assign appropriate permissions for managing insider risk features in Microsoft Purview.

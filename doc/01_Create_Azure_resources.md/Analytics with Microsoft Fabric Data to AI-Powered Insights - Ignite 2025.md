@@ -5,17 +5,17 @@ nav_order: 2
 parent: 'Lab summaries'
 ---
 
-**ID** 205504
-**Number:** LAB534
-**Name:** Analytics with Microsoft Fabric: Data to AI-Powered Insights - Ignite 2025
-**CloudSubscriptionPoolName:** Ignite 2025 - CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** M365Copilot, CopilotStudio, E3, E3 + PBI Pro
+**ID** 205504  
+**Number:** LAB534  
+**Name:** Analytics with Microsoft Fabric: Data to AI-Powered Insights - Ignite 2025  
+**CloudSubscriptionPoolName:** Ignite 2025 - CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** M365Copilot, CopilotStudio, E3, E3 + PBI Pro  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Fabric Environment Setup:**
 - **Goal:** Prepare the Microsoft Fabric environment and foundational data assets for the lab.

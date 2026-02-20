@@ -1,21 +1,19 @@
 ---
 title: 'Makers in action: crafting Microsoft 365 Copilot Agents for real-world - Ignite 2025'
 layout: default
-nav_order: 35
+nav_order: 36
 parent: 'Lab summaries'
 ---
 
-**ID** 205063
-**Number:** LAB565
-**Name:** Makers in action: crafting Microsoft 365 Copilot Agents for real-world - Ignite 2025
-**CloudSubscriptionPoolName:** Microsoft Event Subscription (CSS)
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** Events GHE w/ Copilot, M365Copilot, CopilotStudio, E3
+**ID** 205063  
+**Number:** LAB565  
+**Name:** Makers in action: crafting Microsoft 365 Copilot Agents for real-world - Ignite 2025  
+**CloudSubscriptionPoolName:** Microsoft Event Subscription (CSS)  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** Events GHE w/ Copilot, M365Copilot, CopilotStudio, E3  
 
 ---
-
-# Makers in Action: Crafting Microsoft 365 Copilot Agents for Real-World
 
 ## Exercise Summary
 

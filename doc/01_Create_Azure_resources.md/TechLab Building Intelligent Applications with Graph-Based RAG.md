@@ -5,17 +5,15 @@ nav_order: 57
 parent: 'Lab summaries'
 ---
 
-**ID** 186397
-**Number:** LAB116
-**Name:** TechLab: Building Intelligent Applications with Graph-Based RAG
-**CloudSubscriptionPoolName:** LAB426 Recycling CSS Pool
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** TrialFabricUsers
+**ID** 186397  
+**Number:** LAB116  
+**Name:** TechLab: Building Intelligent Applications with Graph-Based RAG  
+**CloudSubscriptionPoolName:** LAB426 Recycling CSS Pool  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** TrialFabricUsers  
 
 ---
-
-# Tech Mastery Catalog Lab Instruction Summary
 
 ## Exercise Summary
 

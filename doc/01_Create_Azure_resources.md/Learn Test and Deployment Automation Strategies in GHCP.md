@@ -5,17 +5,17 @@ nav_order: 33
 parent: 'Lab summaries'
 ---
 
-**ID** 205273
-**Number:** LAB 334
-**Name:** Learn Test and Deployment Automation Strategies in GHCP
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** Events GHE w/ Copilot
+**ID** 205273  
+**Number:** LAB 334  
+**Name:** Learn Test and Deployment Automation Strategies in GHCP  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** Events GHE w/ Copilot  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Prerequisites Installation/Verification**
 - **Goal:** Set up the development environment and required tools for AKS deployment and testing with GitHub Copilot.

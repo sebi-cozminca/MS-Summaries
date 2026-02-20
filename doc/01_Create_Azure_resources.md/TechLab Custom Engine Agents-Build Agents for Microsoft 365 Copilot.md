@@ -5,17 +5,17 @@ nav_order: 61
 parent: 'Lab summaries'
 ---
 
-**ID** 186550
-**Number:** LAB911
-**Name:** TechLab: Custom Engine Agents-Build Agents for Microsoft 365 Copilot
-**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** TC LAB911 Cred Pool
-**Additional licenses:** TrialFabricUsers
+**ID** 186550  
+**Number:** LAB911  
+**Name:** TechLab: Custom Engine Agents-Build Agents for Microsoft 365 Copilot  
+**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** TC LAB911 Cred Pool  
+**Additional licenses:** TrialFabricUsers  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Create a custom engine agent**
 - **Goal:** Build and provision a custom Teams AI agent using Visual Studio, Teams Toolkit, and Azure resources.

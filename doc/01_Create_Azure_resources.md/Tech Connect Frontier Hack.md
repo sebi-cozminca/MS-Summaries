@@ -5,17 +5,17 @@ nav_order: 49
 parent: 'Lab summaries'
 ---
 
-**ID** 209295
-**Number:** HYB 787
-**Name:** Tech Connect Frontier Hack
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** CopilotStudio, E3, Events GHE w/ Copilot
+**ID** 209295  
+**Number:** HYB 787  
+**Name:** Tech Connect Frontier Hack  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** CopilotStudio, E3, Events GHE w/ Copilot  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Lab Environment Setup**
 - **Goal:** Prepare the virtual machine and access required credentials for the lab.

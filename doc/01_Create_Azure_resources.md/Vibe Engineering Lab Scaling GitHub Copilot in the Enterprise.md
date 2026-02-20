@@ -5,17 +5,17 @@ nav_order: 93
 parent: 'Lab summaries'
 ---
 
-**ID** 208634
-**Number:** LAB 332
-**Name:** Vibe Engineering Lab: Scaling GitHub Copilot in the Enterprise
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** M365Copilot, CopilotStudio, Events GHE w/ Copilot
+**ID** 208634  
+**Number:** LAB 332   
+**Name:** Vibe Engineering Lab: Scaling GitHub Copilot in the Enterprise  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** M365Copilot, CopilotStudio, Events GHE w/ Copilot  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Sign into GitHub Enterprise and Get Started**
 - **Goal:** Access and prepare the GitHub Enterprise environment for lab activities.

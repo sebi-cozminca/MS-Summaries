@@ -5,17 +5,17 @@ nav_order: 28
 parent: 'Lab summaries'
 ---
 
-**ID** 205271
-**Number:** LAB544
-**Name:** Govern identities with confidence using Microsoft Entra - Ignite 2025
-**CloudSubscriptionPoolName:** NA
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** WWL | M365 Enterprise 2019 w/ SPE_E (Stakeholder: Kim Frank)
-**Additional licenses:** M365Copilot
+**ID** 205271  
+**Number:** LAB544  
+**Name:** Govern identities with confidence using Microsoft Entra - Ignite 2025  
+**CloudSubscriptionPoolName:** NA  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** WWL | M365 Enterprise 2019 w/ SPE_E (Stakeholder: Kim Frank)  
+**Additional licenses:** M365Copilot  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Add an ID Governance Trial License**
   - **Goal:** Enable Microsoft Entra ID Governance features by activating a trial license.

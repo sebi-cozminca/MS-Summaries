@@ -1,21 +1,19 @@
 ---
 title: 'Migrate to AKS Automatic with GitHub Copilot for App Modernization'
 layout: default
-nav_order: 37
+nav_order: 38
 parent: 'Lab summaries'
 ---
 
-**ID** 205052
-**Number:** LAB 110
-**Name:** Migrate to AKS Automatic with GitHub Copilot for App Modernization
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** Events GHE w/ Copilot
+**ID** 205052  
+**Number:** LAB 110  
+**Name:** Migrate to AKS Automatic with GitHub Copilot for App Modernization  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** Events GHE w/ Copilot  
 
 ---
-
-# Migrate to AKS Automatic with GitHub Copilot for App Modernization - Lab Instruction Summary
 
 ## Exercise Summary
 

@@ -5,17 +5,17 @@ nav_order: 67
 parent: 'Lab summaries'
 ---
 
-**ID** 200711
-**Number:** Lab313
-**Name:** TechLab: End-to-End Migration and Modernization on Azure: Linux, Applications, and Databases
-**CloudSubscriptionPoolName:** Microsoft Event Subscription (CSS)
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 200711  
+**Number:** Lab313  
+**Name:** TechLab: End-to-End Migration and Modernization on Azure: Linux, Applications, and Databases  
+**CloudSubscriptionPoolName:** Microsoft Event Subscription (CSS)  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Prepare for workload migration with Azure Migrate**
 - **Goal:** Set up Azure Migrate and register an on-premises appliance to enable discovery and migration of Hyper-V workloads.

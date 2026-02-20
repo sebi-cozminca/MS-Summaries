@@ -5,17 +5,15 @@ nav_order: 17
 parent: 'Lab summaries'
 ---
 
-**ID** 205727
-**Number:** LAB551
-**Name:** Cloud Security: CSPM in Microsoft Defender for Cloud
-**CloudSubscriptionPoolName:** Microsoft Events 25 - MSLEARN CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 205727  
+**Number:** LAB551  
+**Name:** Cloud Security: CSPM in Microsoft Defender for Cloud  
+**CloudSubscriptionPoolName:** Microsoft Events 25 - MSLEARN CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
-
-# Cloud Security CSPM in Microsoft Defender for Cloud — Lab Instruction Summary
 
 ## Exercise Summary
 

@@ -5,17 +5,17 @@ nav_order: 22
 parent: 'Lab summaries'
 ---
 
-**ID** 205171
-**Number:** LAB533
-**Name:** Develop Scalable Data Solutions with SQL Database in Microsoft Fabric - Ignite 2025
-**CloudSubscriptionPoolName:** Ignite 2025 - CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** M365Copilot, CopilotStudio, E5
+**ID** 205171  
+**Number:** LAB533  
+**Name:** Develop Scalable Data Solutions with SQL Database in Microsoft Fabric - Ignite 2025  
+**CloudSubscriptionPoolName:** Ignite 2025 - CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** M365Copilot, CopilotStudio, E5  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Introduction to SQL Database in Microsoft Fabric**
 - **Goal:** Set up and explore a SQL database within Microsoft Fabric.

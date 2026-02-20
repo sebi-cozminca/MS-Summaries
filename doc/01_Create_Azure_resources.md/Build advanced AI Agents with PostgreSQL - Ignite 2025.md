@@ -5,17 +5,17 @@ nav_order: 7
 parent: 'Lab summaries'
 ---
 
-**ID** 205227
-**Number:** LAB515
-**Name:** Build advanced AI Agents with PostgreSQL - Ignite 2025
-**CloudSubscriptionPoolName:** LAB426 Recycling CSS Pool
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** TrialFabricUsers
+**ID** 205227  
+**Number:** LAB515  
+**Name:** Build advanced AI Agents with PostgreSQL - Ignite 2025  
+**CloudSubscriptionPoolName:** LAB426 Recycling CSS Pool  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** TrialFabricUsers  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Part 0: Log into Azure and Explore Azure Resources**
 - **Goal:** Access the lab environment and review Azure resources for the agentic app.

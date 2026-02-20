@@ -1,21 +1,19 @@
 ---
 title: 'Manage sensitive data using information protection in the age of AI - Ignite 2025'
 layout: default
-nav_order: 36
+nav_order: 37
 parent: 'Lab summaries'
 ---
 
-**ID** 205050
-**Number:** LAB545
-**Name:** Manage sensitive data using information protection in the age of AI - Ignite 2025
-**CloudSubscriptionPoolName:** NA
-**AllowSave:** True
-**CloudCredentialPoolAssignments:** WWL | M365 Enterprise 2019 w/ SPE_E (Stakeholder: Kim Frank)
-**Additional licenses:** NA
+**ID** 205050  
+**Number:** LAB545  
+**Name:** Manage sensitive data using information protection in the age of AI - Ignite 2025  
+**CloudSubscriptionPoolName:** NA  
+**AllowSave:** True  
+**CloudCredentialPoolAssignments:** WWL | M365 Enterprise 2019 w/ SPE_E (Stakeholder: Kim Frank)  
+**Additional licenses:** NA  
 
 ---
-
-# Manage Sensitive Data Using Information Protection in the Age of AI - Lab Instruction Summary
 
 ## Exercise Summary
 

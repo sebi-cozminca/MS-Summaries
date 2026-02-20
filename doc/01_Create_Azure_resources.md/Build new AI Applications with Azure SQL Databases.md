@@ -5,17 +5,17 @@ nav_order: 9
 parent: 'Lab summaries'
 ---
 
-**ID** 207551
-**Number:** LAB530
-**Name:** Build new AI Applications with Azure SQL Databases
-**CloudSubscriptionPoolName:** Microsoft Events 25 - MSLEARN CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 207551  
+**Number:** LAB530  
+**Name:** Build new AI Applications with Azure SQL Databases  
+**CloudSubscriptionPoolName:** Microsoft Events 25 - MSLEARN CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Provision Azure SQL Database**
 - **Goal:** Deploy a new Azure SQL Database instance for AI application development.

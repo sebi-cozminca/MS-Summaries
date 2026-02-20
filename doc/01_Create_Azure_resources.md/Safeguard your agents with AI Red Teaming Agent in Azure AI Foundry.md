@@ -1,21 +1,21 @@
 ---
 title: 'Safeguard your agents with AI Red Teaming Agent in Azure AI Foundry'
 layout: default
-nav_order: 46
+nav_order: 47
 parent: 'Lab summaries'
 ---
 
-**ID** 205285
-**Number:** LAB516
-**Name:** Safeguard your agents with AI Red Teaming Agent in Azure AI Foundry
-**CloudSubscriptionPoolName:** Microsoft Events 25 - MSLEARN CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 205285  
+**Number:** LAB516  
+**Name:** Safeguard your agents with AI Red Teaming Agent in Azure AI Foundry  
+**CloudSubscriptionPoolName:** Microsoft Events 25 - MSLEARN CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Access Lab Guide and Project Repository**
 - **Goal:** Set up the lab environment and access the AI Red Teaming Agent project resources.

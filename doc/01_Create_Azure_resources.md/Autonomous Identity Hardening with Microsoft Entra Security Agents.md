@@ -5,17 +5,17 @@ nav_order: 4
 parent: 'Lab summaries'
 ---
 
-**ID** 208637
-**Number:** LAB 408
-**Name:** Autonomous Identity Hardening with Microsoft Entra Security Agents
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** CopilotStudio, E5
+**ID** 208637  
+**Number:** LAB 408  
+**Name:** Autonomous Identity Hardening with Microsoft Entra Security Agents  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** CopilotStudio, E5  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Lab Overview:**
 - **Goal:** Build a Tier 2 SOC Analyst Agent in Microsoft Copilot Studio to automate identity threat detection and policy auditing using generative AI.

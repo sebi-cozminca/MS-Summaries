@@ -5,17 +5,17 @@ nav_order: 87
 parent: 'Lab summaries'
 ---
 
-**ID** 165886
-**Number:** 41-411-1
-**Name:** TechLab: Using Teams Phone Advanced Calling Features and Calling Plans
-**CloudSubscriptionPoolName:** NA
-**AllowSave:** True
-**CloudCredentialPoolAssignments:** WWL | M365 Enterprise with Calling (Stakeholder: Kim Frank)
-**Additional licenses:** NA
+**ID** 165886  
+**Number:** 41-411-1  
+**Name:** TechLab: Using Teams Phone Advanced Calling Features and Calling Plans  
+**CloudSubscriptionPoolName:** NA  
+**AllowSave:** True  
+**CloudCredentialPoolAssignments:** WWL | M365 Enterprise with Calling (Stakeholder: Kim Frank)  
+**Additional licenses:** NA  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Configuring global Teams settings and user policies**
 - **Goal:** Set up Teams calling and voicemail policies for compliance and regional requirements.

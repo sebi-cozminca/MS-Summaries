@@ -5,17 +5,15 @@ nav_order: 82
 parent: 'Lab summaries'
 ---
 
-**ID** 168013
-**Number:** 41-411-6
-**Name:** TechLab: Understanding Medallion Architecture in Fabric with Lakehouse + Warehouse
-**CloudSubscriptionPoolName:** TechMaster MSLEARN - CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** E5
+**ID** 168013  
+**Number:** 41-411-6  
+**Name:** TechLab: Understanding Medallion Architecture in Fabric with Lakehouse + Warehouse  
+**CloudSubscriptionPoolName:** TechMaster MSLEARN - CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** E5  
 
 ---
-
-# TechLab Understanding Medallion Architecture in Fabric with Lakehouse + Warehouse — Exercise Summary
 
 ## Exercise Summary
 

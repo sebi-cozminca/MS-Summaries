@@ -1,21 +1,21 @@
 ---
 title: 'Perform Threat Hunting in Microsoft Sentinel'
 layout: default
-nav_order: 42
+nav_order: 43
 parent: 'Lab summaries'
 ---
 
-**ID** 208638
-**Number:** LAB 409
-**Name:** Perform Threat Hunting in Microsoft Sentinel
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 208638  
+**Number:** LAB 409  
+**Name:** Perform Threat Hunting in Microsoft Sentinel  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Lab Setup and Environment Preparation**
 - **Goal:** Prepare the Microsoft Sentinel lab environment and required resources.

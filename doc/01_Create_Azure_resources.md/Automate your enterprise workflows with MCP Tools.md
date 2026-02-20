@@ -5,17 +5,17 @@ nav_order: 3
 parent: 'Lab summaries'
 ---
 
-**ID** 205917
-**Number:** Lab572
-**Name:** Automate your enterprise workflows with MCP Tools
-**CloudSubscriptionPoolName:** M365 Labs CSR
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** M365Copilot, CopilotStudio, E3
+**ID** 205917  
+**Number:** Lab572  
+**Name:** Automate your enterprise workflows with MCP Tools  
+**CloudSubscriptionPoolName:** M365 Labs CSR  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** M365Copilot, CopilotStudio, E3  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Lab Setup:**
 - **Goal:** Prepare the environment and required Microsoft services for agent and MCP server configuration.

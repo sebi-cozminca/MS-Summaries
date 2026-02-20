@@ -5,17 +5,15 @@ nav_order: 59
 parent: 'Lab summaries'
 ---
 
-**ID** 186797
-**Number:** LAB310
-**Name:** TechLab: Collaborating with agents in your software development workflow
-**CloudSubscriptionPoolName:** Ignite (CSS) - Prod
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 186797  
+**Number:** LAB310  
+**Name:** TechLab: Collaborating with agents in your software development workflow  
+**CloudSubscriptionPoolName:** Ignite (CSS) - Prod  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
-
-# Tech Mastery Catalog Lab Instruction Summary
 
 ## Exercise Summary
 

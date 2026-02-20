@@ -1,21 +1,21 @@
 ---
 title: 'Next-Gen AKS Operations with Models, and Agents, and MCPs (oh my!)'
 layout: default
-nav_order: 41
+nav_order: 42
 parent: 'Lab summaries'
 ---
 
-**ID** 205503
-**Number:** LAB517
-**Name:** Next-Gen AKS Operations with Models, and Agents, and MCPs (oh my!)
-**CloudSubscriptionPoolName:** Ignite 2025 - CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** Events GHE w/ Copilot
+**ID** 205503  
+**Number:** LAB517  
+**Name:** Next-Gen AKS Operations with Models, and Agents, and MCPs (oh my!)  
+**CloudSubscriptionPoolName:** Ignite 2025 - CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** Events GHE w/ Copilot  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Environment Preparation**
 - **Goal:** Set up and authenticate the lab environment for AKS operations with AI agents.

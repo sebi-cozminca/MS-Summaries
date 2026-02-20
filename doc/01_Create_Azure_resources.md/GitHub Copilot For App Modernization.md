@@ -5,17 +5,17 @@ nav_order: 27
 parent: 'Lab summaries'
 ---
 
-**ID** 199388
-**Number:** 43-514-02
-**Name:** GitHub Copilot For App Modernization
-**CloudSubscriptionPoolName:** TechMastery - CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** Events GHE w/ Copilot
+**ID** 199388  
+**Number:** 43-514-02  
+**Name:** GitHub Copilot For App Modernization  
+**CloudSubscriptionPoolName:** TechMastery - CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** Events GHE w/ Copilot  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Setup the Environment**
   - **Goal:** Prepare the lab environment and sign in to required tools and services.

@@ -5,17 +5,17 @@ nav_order: 74
 parent: 'Lab summaries'
 ---
 
-**ID** 168478
-**Number:** 41-411-3
-**Name:** TechLab: Mastering GitHub Copilot for AI Paired Programming
-**CloudSubscriptionPoolName:** NA
-**AllowSave:** True
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 168478  
+**Number:** 41-411-3  
+**Name:** TechLab: Mastering GitHub Copilot for AI Paired Programming  
+**CloudSubscriptionPoolName:** NA  
+**AllowSave:** True  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Environment and Account Setup**
 - **Goal:** Prepare the lab environment and ensure access to required resources.

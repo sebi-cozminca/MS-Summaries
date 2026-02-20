@@ -5,17 +5,15 @@ nav_order: 69
 parent: 'Lab summaries'
 ---
 
-**ID** 186399
-**Number:** LAB418
-**Name:** TechLab: Guardians of Innovation: Establishing Security Baselines for ML/AI
-**CloudSubscriptionPoolName:** Microsoft Event Subscription (CSS)
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** WWL | M365 Enterprise Blank Admin Only 15S (Stakeholder: Kim Frank)
-**Additional licenses:** NA
-
+**ID** 186399  
+**Number:** LAB418  
+**Name:** TechLab: Guardians of Innovation: Establishing Security Baselines for ML/AI  
+**CloudSubscriptionPoolName:** Microsoft Event Subscription (CSS)  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** WWL | M365 Enterprise Blank Admin Only 15S (Stakeholder: Kim Frank)  
+**Additional licenses:** NA  
+  
 ---
-
-# TechLab Guardians of Innovation: Establishing Security Baselines for MLAI – Lab Instruction Summary
 
 ## Exercise Summary
 

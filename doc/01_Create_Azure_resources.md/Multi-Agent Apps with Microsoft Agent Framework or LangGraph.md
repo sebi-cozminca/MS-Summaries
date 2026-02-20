@@ -1,21 +1,19 @@
 ---
 title: 'Multi-Agent Apps with Microsoft Agent Framework or LangGraph'
 layout: default
-nav_order: 40
+nav_order: 41
 parent: 'Lab summaries'
 ---
 
-**ID** 207066
-**Number:** LAB518
-**Name:** Multi-Agent Apps with Microsoft Agent Framework or LangGraph
-**CloudSubscriptionPoolName:** Microsoft Events 25 - MSLEARN CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 207066  
+**Number:** LAB518  
+**Name:** Multi-Agent Apps with Microsoft Agent Framework or LangGraph  
+**CloudSubscriptionPoolName:** Microsoft Events 25 - MSLEARN CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
-
-# Exercise Summary: Multi-Agent Apps with Microsoft Agent Framework or LangGraph
 
 ## C# Track: Microsoft Agent Framework (Semantic Kernel Agents)
 

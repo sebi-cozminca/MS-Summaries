@@ -5,17 +5,15 @@ nav_order: 58
 parent: 'Lab summaries'
 ---
 
-**ID** 188046
-**Number:** 41-411-7
-**Name:** TechLab: Building Microsoft Fabric Realtime Intelligence
-**CloudSubscriptionPoolName:** TechMaster MSLEARN - CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** E5
+**ID** 188046  
+**Number:** 41-411-7  
+**Name:** TechLab: Building Microsoft Fabric Realtime Intelligence  
+**CloudSubscriptionPoolName:** TechMaster MSLEARN - CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** E5  
 
 ---
-
-# Tech Mastery Catalog Lab Instruction Summary
 
 ## Exercise Summary
 

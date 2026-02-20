@@ -5,17 +5,17 @@ nav_order: 10
 parent: 'Lab summaries'
 ---
 
-**ID** 205048
-**Number:** LAB571
-**Name:** Build your own pizza ordering agent - Ignite 2025
-**CloudSubscriptionPoolName:** Microsoft Events 25 - MSLEARN CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 205048  
+**Number:** LAB571  
+**Name:** Build your own pizza ordering agent - Ignite 2025  
+**CloudSubscriptionPoolName:** Microsoft Events 25 - MSLEARN CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Create Your First Agent**
 - **Goal:** Build a basic AI agent using Foundry Agent Service and interact with it locally.

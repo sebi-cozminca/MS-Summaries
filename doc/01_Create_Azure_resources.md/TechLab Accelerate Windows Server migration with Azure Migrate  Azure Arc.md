@@ -5,17 +5,17 @@ nav_order: 50
 parent: 'Lab summaries'
 ---
 
-**ID** 186373
-**Number:** TechConnect Lab315
-**Name:** TechLab: Accelerate Windows Server migration with Azure Migrate & Azure Arc
-**CloudSubscriptionPoolName:** TechMastery - CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 186373  
+**Number:** TechConnect Lab315  
+**Name:** TechLab: Accelerate Windows Server migration with Azure Migrate & Azure Arc  
+**CloudSubscriptionPoolName:** TechMastery - CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Prepare to Onboard Server to Azure Arc and Create Log Analytics Workspace**
 - **Goal:** Prepare a Windows Server for Azure Arc onboarding and provision a Log Analytics workspace.

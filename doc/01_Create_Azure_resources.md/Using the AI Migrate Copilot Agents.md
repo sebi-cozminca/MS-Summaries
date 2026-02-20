@@ -5,17 +5,17 @@ nav_order: 91
 parent: 'Lab summaries'
 ---
 
-**ID** 208643
-**Number:** LAB 482
-**Name:** Using the AI Migrate Copilot Agents
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** CopilotStudio, E3, M365Copilot
+**ID** 208643  
+**Number:** LAB 482  
+**Name:** Using the AI Migrate Copilot Agents  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** CopilotStudio, E3, M365Copilot  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 0: Prerequisites and SharePoint Setup**
 - **Goal:** Prepare the environment and SharePoint site for agent operation.

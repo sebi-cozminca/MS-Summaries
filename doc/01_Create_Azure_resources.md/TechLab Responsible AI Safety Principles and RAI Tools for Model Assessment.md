@@ -5,17 +5,15 @@ nav_order: 78
 parent: 'Lab summaries'
 ---
 
-**ID** 186396
-**Number:** CSU-DAI-300
-**Name:** TechLab: Responsible AI Safety, Principles and RAI Tools for Model Assessment
-**CloudSubscriptionPoolName:** TechMaster MSLEARN - CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 186396  
+**Number:** CSU-DAI-300  
+**Name:** TechLab: Responsible AI Safety, Principles and RAI Tools for Model Assessment  
+**CloudSubscriptionPoolName:** TechMaster MSLEARN - CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
-
-# TechLab Responsible AI Safety Principles and RAI Tools for Model Assessment — Exercise Summary
 
 ## Exercise Summary
 

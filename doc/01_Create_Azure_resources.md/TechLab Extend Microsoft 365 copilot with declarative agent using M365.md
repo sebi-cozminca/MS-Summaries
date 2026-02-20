@@ -5,17 +5,17 @@ nav_order: 68
 parent: 'Lab summaries'
 ---
 
-**ID** 200795
-**Number:** 1
-**Name:** TechLab: Extend Microsoft 365 copilot with declarative agent using M365
-**CloudSubscriptionPoolName:** Microsoft Event Subscription (CSS)
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** M365Copilot, CopilotStudio, E3
+**ID** 200795  
+**Number:** 1  
+**Name:** TechLab: Extend Microsoft 365 copilot with declarative agent using M365  
+**CloudSubscriptionPoolName:** Microsoft Event Subscription (CSS)  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** M365Copilot, CopilotStudio, E3  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Build a Backend API for the Solution**
 - **Goal:** Set up and test a TypeScript-based Azure Functions REST API for a consulting scenario, using local emulated Azure Table Storage.

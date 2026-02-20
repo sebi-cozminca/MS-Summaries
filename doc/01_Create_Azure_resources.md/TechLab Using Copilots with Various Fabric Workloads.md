@@ -5,17 +5,17 @@ nav_order: 86
 parent: 'Lab summaries'
 ---
 
-**ID** 168496
-**Number:** 41-411-6
-**Name:** TechLab: Using Copilots with Various Fabric Workloads
-**CloudSubscriptionPoolName:** TechMaster MSLEARN - CSS
-**AllowSave:** True
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** E5
+**ID** 168496  
+**Number:** 41-411-6  
+**Name:** TechLab: Using Copilots with Various Fabric Workloads  
+**CloudSubscriptionPoolName:** TechMaster MSLEARN - CSS  
+**AllowSave:** True  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** E5  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Lab Setup: Create a Workspace**
 - **Goal:** Set up the Microsoft Fabric environment for data analytics and Copilot usage.

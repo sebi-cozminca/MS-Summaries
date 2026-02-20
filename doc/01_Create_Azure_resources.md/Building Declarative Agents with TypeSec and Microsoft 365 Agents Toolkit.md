@@ -5,17 +5,17 @@ nav_order: 14
 parent: 'Lab summaries'
 ---
 
-**ID** 207426
-**Number:** LAB 485
-**Name:** Building Declarative Agents with TypeSec and Microsoft 365 Agents Toolkit
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** M365Copilot, CopilotStudio, E3
+**ID** 207426  
+**Number:** LAB 485  
+**Name:** Building Declarative Agents with TypeSec and Microsoft 365 Agents Toolkit  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** M365Copilot, CopilotStudio, E3  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Connect Declarative Agent to MCP Server**
 - **Goal:** Integrate a Declarative Agent with an MCP server to enable natural language access to insurance claims data.

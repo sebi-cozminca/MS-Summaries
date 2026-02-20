@@ -5,17 +5,17 @@ nav_order: 73
 parent: 'Lab summaries'
 ---
 
-**ID** 186391
-**Number:** TechConnect LAB417
-**Name:** TechLab: LLM App - Prompt Injection, Jailbreak and Protection
-**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** TrialFabricUsers
+**ID** 186391  
+**Number:** TechConnect LAB417  
+**Name:** TechLab: LLM App - Prompt Injection, Jailbreak and Protection  
+**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** TrialFabricUsers  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Exercise 0: Initialize Environment**
 - **Goal:** Prepare the environment for Prompt Flow development with Python 3.9 and required dependencies.

@@ -1,21 +1,21 @@
 ---
 title: 'Scaling AI Experiences with Microsoft Foundry & Fabric Data Agent'
 layout: default
-nav_order: 47
+nav_order: 48
 parent: 'Lab summaries'
 ---
 
-**ID** 208630
-**Number:** LAB 256
-**Name:** Scaling AI Experiences with Microsoft Foundry & Fabric Data Agent
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** M365Copilot, CopilotStudio, E3, Events GHE w/ Copilot
+**ID** 208630  
+**Number:** LAB 256  
+**Name:** Scaling AI Experiences with Microsoft Foundry & Fabric Data Agent  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** M365Copilot, CopilotStudio, E3, Events GHE w/ Copilot  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Environment and Workspace Setup**
 - **Goal:** Establish a Microsoft Fabric workspace and prepare the lab environment.

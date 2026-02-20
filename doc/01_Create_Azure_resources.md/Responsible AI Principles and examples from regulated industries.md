@@ -1,21 +1,21 @@
 ---
 title: 'Responsible AI Principles and examples from regulated industries'
 layout: default
-nav_order: 45
+nav_order: 46
 parent: 'Lab summaries'
 ---
 
-**ID** 208626
-**Number:** LAB 184
-**Name:** Responsible AI Principles and examples from regulated industries
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 208626  
+**Number:** LAB 184  
+**Name:** Responsible AI Principles and examples from regulated industries  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Azure AI Foundry Hands-on Lab**
 - **Goal:** Build, evaluate, and monitor a responsible AI agent using Azure AI Foundry and implement guardrails for regulated industry scenarios.

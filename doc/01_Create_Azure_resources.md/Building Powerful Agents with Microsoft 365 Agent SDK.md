@@ -5,17 +5,15 @@ nav_order: 16
 parent: 'Lab summaries'
 ---
 
-**ID** 202169
-**Number:** LAB 483
-**Name:** Building Powerful Agents with Microsoft 365 Agent SDK
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** M365Copilot, E3, TeamsEnt
+**ID** 202169  
+**Number:** LAB 483  
+**Name:** Building Powerful Agents with Microsoft 365 Agent SDK  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** M365Copilot, E3, TeamsEnt  
 
 ---
-
-# Building Powerful Agents with Microsoft 365 Agent SDK — Lab Instruction Summary
 
 ## Exercise Summary
 

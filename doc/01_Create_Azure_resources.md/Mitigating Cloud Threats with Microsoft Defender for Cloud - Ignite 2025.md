@@ -1,21 +1,19 @@
 ---
 title: 'Mitigating Cloud Threats with Microsoft Defender for Cloud - Ignite 2025'
 layout: default
-nav_order: 38
+nav_order: 39
 parent: 'Lab summaries'
 ---
 
-**ID** 205062
-**Number:** LAB550
-**Name:** Mitigating Cloud Threats with Microsoft Defender for Cloud - Ignite 2025
-**CloudSubscriptionPoolName:** Microsoft Events 25 - MSLEARN CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 205062  
+**Number:** LAB550  
+**Name:** Mitigating Cloud Threats with Microsoft Defender for Cloud - Ignite 2025  
+**CloudSubscriptionPoolName:** Microsoft Events 25 - MSLEARN CSS  
+**AllowSave:** False   
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
-
-# Mitigating Cloud Threats with Microsoft Defender for Cloud - Lab Instruction Summary
 
 ## Exercise Summary
 

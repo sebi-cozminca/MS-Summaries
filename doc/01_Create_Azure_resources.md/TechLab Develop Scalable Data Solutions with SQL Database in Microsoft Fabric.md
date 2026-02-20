@@ -5,17 +5,17 @@ nav_order: 64
 parent: 'Lab summaries'
 ---
 
-**ID** 192172
-**Number:** LAB363
-**Name:** TechLab: Develop Scalable Data Solutions with SQL Database in Microsoft Fabric
-**CloudSubscriptionPoolName:** TechMaster MSLEARN - CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** DREAM Labs Build, TrialFabricUsers, E5
+**ID** 192172  
+**Number:** LAB363  
+**Name:** TechLab: Develop Scalable Data Solutions with SQL Database in Microsoft Fabric  
+**CloudSubscriptionPoolName:** TechMaster MSLEARN - CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** DREAM Labs Build, TrialFabricUsers, E5  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Loading Data into SQL Database in Fabric**
 - **Goal:** Set up a Microsoft Fabric workspace and SQL Database, then load and validate data from Azure SQL Database.

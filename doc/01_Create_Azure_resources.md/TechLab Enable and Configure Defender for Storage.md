@@ -5,17 +5,17 @@ nav_order: 66
 parent: 'Lab summaries'
 ---
 
-**ID** 174317
-**Number:** 41-411-4
-**Name:** TechLab: Enable and Configure Defender for Storage
-**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 174317  
+**Number:** 41-411-4  
+**Name:** TechLab: Enable and Configure Defender for Storage  
+**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Prepare the environment for Defender for Storage**
 - **Goal:** Enable Microsoft Defender for Storage and set up the required Azure resources and local exclusions.

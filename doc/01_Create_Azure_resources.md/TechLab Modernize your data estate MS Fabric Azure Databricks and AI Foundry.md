@@ -5,17 +5,17 @@ nav_order: 75
 parent: 'Lab summaries'
 ---
 
-**ID** 186880
-**Number:** LAB364
-**Name:** TechLab: Modernize your data estate MS Fabric, Azure Databricks and AI Foundry
-**CloudSubscriptionPoolName:** MS Learn CSS Production MCA
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 186880  
+**Number:** LAB364  
+**Name:** TechLab: Modernize your data estate MS Fabric, Azure Databricks and AI Foundry  
+**CloudSubscriptionPoolName:** MS Learn CSS Production MCA  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Data Engineering and Data Factory Experience – Ingest Data from Analytical Data Sources into OneLake**
 - **Goal:** Ingest and prepare data from multiple sources into Microsoft Fabric's OneLake for unified analytics.

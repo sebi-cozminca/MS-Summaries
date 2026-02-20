@@ -5,17 +5,17 @@ nav_order: 24
 parent: 'Lab summaries'
 ---
 
-**ID** 208628
-**Number:** LAB 255
-**Name:** Event driven, real-time intelligence using Fabric's RTI
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-MSLEARN-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** E5
+**ID** 208628  
+**Number:** LAB 255  
+**Name:** Event driven, real-time intelligence using Fabric's RTI  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-MSLEARN-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** E5  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Environment Setup**
 - **Goal:** Establish the foundational infrastructure for real-time analytics using Microsoft Fabric and Eventhouse.

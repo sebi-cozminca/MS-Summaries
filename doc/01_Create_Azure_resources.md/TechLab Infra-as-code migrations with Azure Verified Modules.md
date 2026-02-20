@@ -5,17 +5,15 @@ nav_order: 71
 parent: 'Lab summaries'
 ---
 
-**ID** 186387
-**Number:** TechConnect Lab310
-**Name:** TechLab: Infra-as-code migrations with Azure Verified Modules
-**CloudSubscriptionPoolName:** Ignite (CSS) - Prod
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 186387  
+**Number:** TechConnect Lab310  
+**Name:** TechLab: Infra-as-code migrations with Azure Verified Modules  
+**CloudSubscriptionPoolName:** Ignite (CSS) - Prod  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
-
-# TechLab Infra-as-code Migrations with Azure Verified Modules – Lab Instruction Summary
 
 ## Exercise Summary
 

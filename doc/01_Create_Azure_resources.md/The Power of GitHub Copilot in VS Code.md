@@ -5,17 +5,17 @@ nav_order: 89
 parent: 'Lab summaries'
 ---
 
-**ID** 205601
-**Number:** LAB510
-**Name:** The Power of GitHub Copilot in VS Code
-**CloudSubscriptionPoolName:** Microsoft Event Subscription (CSS)
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** Events GHE w/ Copilot
+**ID** 205601  
+**Number:** LAB510  
+**Name:** The Power of GitHub Copilot in VS Code  
+**CloudSubscriptionPoolName:** Microsoft Event Subscription (CSS)  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** Events GHE w/ Copilot  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Environment Setup and Copilot Configuration**
 - **Goal:** Prepare the lab environment and configure GitHub Copilot in Visual Studio Code.

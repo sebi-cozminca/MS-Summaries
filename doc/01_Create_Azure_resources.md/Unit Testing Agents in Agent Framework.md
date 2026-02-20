@@ -5,17 +5,17 @@ nav_order: 90
 parent: 'Lab summaries'
 ---
 
-**ID** 208624
-**Number:** LAB 182
-**Name:** Unit Testing Agents in Agent Framework
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** CopilotStudio, Events GHE w/ Copilot
+**ID** 208624  
+**Number:** LAB 182  
+**Name:** Unit Testing Agents in Agent Framework  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** CopilotStudio, Events GHE w/ Copilot  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Introduction & Environment Setup**
 - **Goal:** Set up the development environment, clone the workshop repository, and configure Azure AI Foundry connectivity for agent evaluation exercises.

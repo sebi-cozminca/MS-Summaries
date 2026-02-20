@@ -5,17 +5,17 @@ nav_order: 77
 parent: 'Lab summaries'
 ---
 
-**ID** 183563
-**Number:** 1
-**Name:** TechLab: Multimodal RAG with Zero Trust Part 2: Deploying Zero Trust Architecture
-**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)
-**AllowSave:** True
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 183563  
+**Number:** 1  
+**Name:** TechLab: Multimodal RAG with Zero Trust Part 2: Deploying Zero Trust Architecture  
+**CloudSubscriptionPoolName:** Microsoft CSU CSS - Recycling (Prod)  
+**AllowSave:** True  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Zero Trust Architecture Review**
 - **Goal:** Understand and analyze the Zero Trust Architecture (ZTA) applied to GPT-RAG deployments in Azure.

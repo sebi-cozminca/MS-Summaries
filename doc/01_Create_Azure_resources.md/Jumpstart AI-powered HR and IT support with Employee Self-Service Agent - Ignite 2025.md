@@ -5,17 +5,17 @@ nav_order: 32
 parent: 'Lab summaries'
 ---
 
-**ID** 205506
-**Number:** LAB562
-**Name:** Jumpstart AI-powered HR and IT support with Employee Self-Service Agent - Ignite 2025
-**CloudSubscriptionPoolName:** LAB562 Recycling Pool
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** CopilotStudio, Ignite25_Lab562
+**ID** 205506  
+**Number:** LAB562  
+**Name:** Jumpstart AI-powered HR and IT support with Employee Self-Service Agent - Ignite 2025  
+**CloudSubscriptionPoolName:** LAB562 Recycling Pool  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** CopilotStudio, Ignite25_Lab562  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 1: Environment Setup and Copilot Studio Access**
 - **Goal:** Prepare the lab environment and access Copilot Studio for agent configuration.

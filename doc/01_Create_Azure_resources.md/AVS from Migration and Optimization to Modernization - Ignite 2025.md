@@ -5,17 +5,17 @@ nav_order: 5
 parent: 'Lab summaries'
 ---
 
-**ID** 205274
-**Number:** LAB503
-**Name:** AVS from Migration and Optimization to Modernization - Ignite 2025
-**CloudSubscriptionPoolName:** NA
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 205274  
+**Number:** LAB503  
+**Name:** AVS from Migration and Optimization to Modernization - Ignite 2025  
+**CloudSubscriptionPoolName:** NA  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Lab Environment Access and Navigation**
 - **Goal:** Enable users to access and navigate the AVS (Azure VMware Solution) demo labs for migration, optimization, and modernization scenarios.

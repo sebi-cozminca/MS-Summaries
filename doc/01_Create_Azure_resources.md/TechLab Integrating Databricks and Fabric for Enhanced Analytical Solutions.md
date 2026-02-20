@@ -5,17 +5,15 @@ nav_order: 72
 parent: 'Lab summaries'
 ---
 
-**ID** 169917
-**Number:** 41-411-6
-**Name:** TechLab: Integrating Databricks and Fabric for Enhanced Analytical Solutions
-**CloudSubscriptionPoolName:** TechMaster MSLEARN - CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** E5
+**ID** 169917  
+**Number:** 41-411-6  
+**Name:** TechLab: Integrating Databricks and Fabric for Enhanced Analytical Solutions  
+**CloudSubscriptionPoolName:** TechMaster MSLEARN - CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** E5  
 
 ---
-
-# TechLab Integrating Databricks and Fabric for Enhanced Analytical Solutions – Lab Instruction Summary
 
 ## Exercise Summary
 

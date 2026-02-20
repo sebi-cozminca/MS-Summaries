@@ -5,17 +5,17 @@ nav_order: 63
 parent: 'Lab summaries'
 ---
 
-**ID** 185898
-**Number:** 45-404-36
-**Name:** TechLab: Designing your own Agent with Copilot Studio
-**CloudSubscriptionPoolName:** NA
-**AllowSave:** True
-**CloudCredentialPoolAssignments:** WWL | M365 Enterprise Blank Admin Only 15S (Stakeholder: Kim Frank)
-**Additional licenses:** NA
+**ID** 185898  
+**Number:** 45-404-36  
+**Name:** TechLab: Designing your own Agent with Copilot Studio  
+**CloudSubscriptionPoolName:** NA  
+**AllowSave:** True  
+**CloudCredentialPoolAssignments:** WWL | M365 Enterprise Blank Admin Only 15S (Stakeholder: Kim Frank)  
+**Additional licenses:** NA  
 
 ---
 
-### Exercise Summary
+## Exercise Summary
 
 **Exercise 00: Setup**
 - **Goal:** Set up Copilot Studio environment and import a pre-built agent for lab use.

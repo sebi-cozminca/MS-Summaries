@@ -5,17 +5,15 @@ nav_order: 70
 parent: 'Lab summaries'
 ---
 
-**ID** 168512
-**Number:** 41-411-7
-**Name:** TechLab: Implement CI/CD End to End Deployment for Analytics
-**CloudSubscriptionPoolName:** CSU - DevOps Parallellism (UAT)
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** NA
+**ID** 168512  
+**Number:** 41-411-7  
+**Name:** TechLab: Implement CI/CD End to End Deployment for Analytics  
+**CloudSubscriptionPoolName:** CSU - DevOps Parallellism (UAT)  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** NA  
 
 ---
-
-# TechLab Implement CI/CD End to End Deployment for Analytics – Lab Instruction Summary
 
 ## Exercise Summary
 

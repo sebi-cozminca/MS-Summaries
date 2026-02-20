@@ -5,17 +5,15 @@ nav_order: 19
 parent: 'Lab summaries'
 ---
 
-**ID** 208612
-**Number:** LAB 107
-**Name:** Containerize and Modernize with Azure and Github Copilot
-**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** Events GHE w/ Copilot
+**ID** 208612  
+**Number:** LAB 107  
+**Name:** Containerize and Modernize with Azure and Github Copilot  
+**CloudSubscriptionPoolName:** Microsoft TechConnect 2026-PRODMCA-CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** Events GHE w/ Copilot  
 
 ---
-
-# Containerize and Modernize with Azure and GitHub Copilot — Lab Instruction Summary
 
 ## Exercise Summary
 

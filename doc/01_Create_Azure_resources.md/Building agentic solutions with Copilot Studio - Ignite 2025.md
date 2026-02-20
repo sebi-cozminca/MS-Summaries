@@ -5,17 +5,17 @@ nav_order: 11
 parent: 'Lab summaries'
 ---
 
-**ID** 205047
-**Number:** LAB570
-**Name:** Building agentic solutions with Copilot Studio - Ignite 2025
-**CloudSubscriptionPoolName:** TechMaster MSLEARN - CSS
-**AllowSave:** False
-**CloudCredentialPoolAssignments:** NA
-**Additional licenses:** E5, Microsoft 365 Copilot
+**ID** 205047  
+**Number:** LAB570  
+**Name:** Building agentic solutions with Copilot Studio - Ignite 2025  
+**CloudSubscriptionPoolName:** TechMaster MSLEARN - CSS  
+**AllowSave:** False  
+**CloudCredentialPoolAssignments:** NA  
+**Additional licenses:** E5, Microsoft 365 Copilot  
 
 ---
 
-# Exercise Summary
+## Exercise Summary
 
 **Exercise 0: Configure the Environment**
 - **Goal:** Set up the Copilot Studio and supporting environment for agent development.
